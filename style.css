@@ -1,0 +1,31 @@
+.div {
+  color: #424242;
+  font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+  letter-spacing:0.1em;
+  text-align:center;
+  margin: 40px auto;
+  text-transform: lowercase;
+  /*line-height: 100px;*/
+  font-size: 14pt;
+  font-variant: small-caps;
+}
+
+.button {
+  background-color: #00bccc;
+  border: none;
+  border-radius: 2px;
+  /*color: #424242;*/
+  font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+  letter-spacing:0.1em;
+
+  text-transform: lowercase;
+  line-height: 145%;
+  font-size: 14pt;
+  font-variant: small-caps;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.centered-block {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
